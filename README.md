@@ -2,10 +2,7 @@
 
 A user-friendly desktop application built with Python and Tkinter to demonstrate the Advanced Encryption Standard (AES) algorithm. This tool allows users to encrypt plaintext messages of any length and decrypt the resulting ciphertext back to the original message.
 
-![AES Tool Screenshot](https://user-images.githubusercontent.com/username/repo/image-name.png) 
-*Note: You can add a screenshot of your application here later by uploading an image to the repository and replacing the link.*
-
----
+<img width="598" height="704" alt="aes_ss" src="https://github.com/user-attachments/assets/33833d2c-595c-41ef-bb1d-dc1337a78975" />
 
 ### Key Features
 
@@ -14,7 +11,6 @@ A user-friendly desktop application built with Python and Tkinter to demonstrate
 *   **Handles Any Message Length:** Automatically applies PKCS#7 padding to encrypt messages of any size, not just 16-byte blocks.
 *   **User-Friendly Workflow:** A clear, three-step process for entering plaintext, encrypting, and decrypting.
 
----
 
 ### Technologies Used
 
@@ -22,7 +18,6 @@ A user-friendly desktop application built with Python and Tkinter to demonstrate
 *   **GUI Library:** Tkinter
 *   **Core Algorithm:** A custom implementation of the AES symmetric-key algorithm.
 
----
 
 ### How to Run This Project
 
